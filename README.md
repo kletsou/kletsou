@@ -2,14 +2,14 @@
 # 💫 A Senior Data Scientist with over 20 years in IT  
 
 You name the data task, I got it! And if I haven't done it before, I learn & try to deliver the best results to you 
-<img src="https://github-readme-stats.vercel.app/api?username=DeleLinus&theme=radical&hide_border=false&include_all_commits=false&count_private=true" align='right' width="50%">  
+<img src="https://github-readme-stats.vercel.app/api?username=kletsou&theme=radical&hide_border=false&include_all_commits=false&count_private=true" align='right' width="50%">  
 <br>
-- 🔭 I am currently working on [HFR Analytics](https://github.com/DeleLinus/HFR-Analytics)
+- 🔭 I am currently working on [NLP](https://github.com/Capital_Bank/HFR-Analytics)
 - 🌱 I am currently learning more about Data simulation and particularly using AWS
 - 👯 I’m looking to collaborate on any Data Science and Engineering Project
 - 🤝 I’m looking to be a part of an Organization's success with my contribution
 - 💬 Ask me about tech-related topics (and maybe Music)
-- 📫 How to reach me: ayanwoyegideon@gmail.com
+- 📫 How to reach me: willcomputerservices5@gmail.com
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: I would be Engineering classical music if not Data<br>
 
